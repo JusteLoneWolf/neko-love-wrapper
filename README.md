@@ -10,7 +10,7 @@ npm i neko-love-wrapper
 
 # How to use
 
-```
+```js
 const nekoloveapi = require('neko-love-wrapper');
 
 nekoloveapi(endpoint).then((url) =>{
