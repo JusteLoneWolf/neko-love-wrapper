@@ -30,8 +30,7 @@ console.log(url)
     'slap' ]
     
     */
-    
-    ```
+```
     
 ## Links
 
