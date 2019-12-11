@@ -1,3 +1,6 @@
+[![npm](https://img.shields.io/npm/dt/neko-love-wrapper?style=for-the-badge)](https://www.npmjs.com/package/neko-love-wrapper)
+[![npm](https://img.shields.io/npm/v/neko-love-wrapper?style=for-the-badge)](https://www.npmjs.com/package/neko-love-wrapper)
+
 # neko-love-wrapper
 A simply wrapper for neko-love api
 

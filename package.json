@@ -1,6 +1,6 @@
 {
   "name": "neko-love-wrapper",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "A simply wrapper for neko-love api",
   "main": "main.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "author": "zechaos",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.19.0",
+    "chalk": "^3.0.0"
   }
 }
